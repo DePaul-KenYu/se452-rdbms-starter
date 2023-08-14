@@ -1,0 +1,41 @@
+2023-07-20 04:35:57,627 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 29531 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-20 04:35:57,650 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-20 04:36:49,891 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 30040 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-20 04:36:49,900 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-20 04:38:34,135 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 30985 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-20 04:38:34,151 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-20 04:39:58,534 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 31735 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-20 04:39:58,544 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-20 04:40:34,887 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 32086 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-20 04:40:34,907 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-20 04:41:01,077 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 32364 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-20 04:41:01,082 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-20 04:41:05,280 INFO o.s.b.StartupInfoLogger [main] Started App in 4.611 seconds (process running for 5.873)
+2023-07-20 04:41:05,282 INFO e.d.c.s.c.App [main] checking adding user2
+2023-07-20 04:41:05,535 INFO e.d.c.s.c.App [main] adding user
+2023-07-20 04:43:35,466 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 1477 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-20 04:43:35,476 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-20 04:43:40,830 INFO o.s.b.StartupInfoLogger [main] Started App in 5.982 seconds (process running for 6.811)
+2023-07-20 04:43:40,834 INFO e.d.c.s.c.App [main] checking adding user2
+2023-07-20 04:43:40,992 INFO e.d.c.s.c.App [main] adding user
+2023-07-20 04:45:54,944 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 2726 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-20 04:45:54,960 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-20 04:46:00,406 INFO o.s.b.StartupInfoLogger [main] Started App in 5.871 seconds (process running for 6.889)
+2023-07-20 04:46:00,421 INFO e.d.c.s.c.App [main] checking adding user2
+2023-07-20 04:46:00,631 INFO e.d.c.s.c.App [main] adding user
+2023-07-20 05:57:50,609 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 8822 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-20 05:57:50,621 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-20 05:57:55,680 INFO o.s.b.StartupInfoLogger [main] Started App in 5.728 seconds (process running for 7.127)
+2023-07-20 05:57:55,683 INFO e.d.c.s.c.App [main] checking adding user5
+2023-07-20 05:57:55,905 INFO e.d.c.s.c.App [main] adding user
+2023-07-26 12:51:56,865 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 3739 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-26 12:51:56,880 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-26 12:54:08,653 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 5058 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-26 12:54:08,746 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-26 12:57:35,365 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 7093 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-26 12:57:35,400 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-26 12:58:55,919 INFO o.s.b.StartupInfoLogger [main] Starting App using Java 17.0.7 with PID 7979 (/home/kyu/fall-2023/se452-rdbms-starter/target/classes started by kyu in /home/kyu/fall-2023/se452-rdbms-starter)
+2023-07-26 12:58:55,945 INFO o.s.b.SpringApplication [main] The following 2 profiles are active: "user-database", "jwt"
+2023-07-26 12:59:02,587 INFO o.s.b.StartupInfoLogger [main] Started App in 7.282 seconds (process running for 8.414)
+2023-07-26 12:59:02,592 INFO e.d.c.s.c.App [main] checking adding user5
+2023-07-26 12:59:02,783 INFO e.d.c.s.c.App [main] adding user

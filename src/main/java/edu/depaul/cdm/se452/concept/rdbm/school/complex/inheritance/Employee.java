@@ -16,7 +16,7 @@ import lombok.Data;
 public abstract class Employee {
     @Id
     @GeneratedValue
-    private long id;
+    private Long id;
 
     private String name;
 

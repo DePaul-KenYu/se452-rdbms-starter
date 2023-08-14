@@ -26,7 +26,7 @@ public class App {
 	CommandLineRunner run(UserRoleRepository roleRepo, UserRepository userRepo) {
 		return args -> {
 
-			log.info("checking adding user");
+			log.info("checking adding user5");
 			if (roleRepo.findByAuthority("ADMIN").isPresent()) return;
 
 			log.info("adding user");
