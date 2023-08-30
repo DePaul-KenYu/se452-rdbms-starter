@@ -17,8 +17,4 @@ spring:
 #     - "user-hardcoded"
      - "user-database"
      - "jwt"
-#     - "non-jwt"
-springdoc:
-  swagger-ui:
-    path: /swagger-ui-custom.html
-  
+#     - "non-jwt"  
