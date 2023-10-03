@@ -25,7 +25,8 @@ public class University {
 
     private String name;
     
-    @OneToMany
+    @OneToMany(fetch = FetchType.EAGER)
+    @ToString.Exclude
     private List<School> schools;    
 
     @ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)

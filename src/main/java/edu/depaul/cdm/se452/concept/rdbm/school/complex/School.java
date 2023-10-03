@@ -24,6 +24,5 @@ public class School {
     private Address address;
     
     @ManyToOne(fetch = FetchType.EAGER)
-    @ToString.Exclude
     private University university;   
 }
