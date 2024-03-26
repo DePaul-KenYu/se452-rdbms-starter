@@ -33,7 +33,7 @@ build/
 .vscode/
 
 ### log directory ###
-logs/
+logs/*
 
 ### Mavon directory ###
 .mvn/

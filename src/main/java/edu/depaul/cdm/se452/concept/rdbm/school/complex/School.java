@@ -9,7 +9,6 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToOne;
 
 import lombok.Data;
-import lombok.ToString;
 
 @Data
 @Entity
