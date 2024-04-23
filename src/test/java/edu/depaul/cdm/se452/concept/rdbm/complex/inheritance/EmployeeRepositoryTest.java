@@ -20,7 +20,9 @@ public class EmployeeRepositoryTest {
     private SalaryEmployeeRepository salaryRepo;
 
     
-
+    /**
+     * Demonstrate inheritance
+     */
     @Test
     public void testAdd() {
         var b4_hrly = hrlyRepo.count();
