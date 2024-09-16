@@ -1,5 +1,5 @@
-server:
- port: 8000
+#server:
+# port: 8000
  
 spring:
   datasource:
@@ -12,3 +12,4 @@ spring:
     show-sql: true
     hibernate.ddl-auto: create-drop
     defer-datasource-initialization: true
+    

@@ -31,9 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+src/main/**/apidocs/
 
 ### log directory ###
-logs/*
+**/logs
+log
 
 ### Mavon directory ###
 .mvn/
